@@ -1,0 +1,11 @@
+1. The difference between a class and an object
+A class is a blueprint used to create objects while an object is an instance of a class
+2.Why do we use Constructors in Java?
+we use constructors to initialize objects when they are created 
+3.Static vs Non-static Methods
+Static method: -it belongs to class 
+               -no object is needed
+Non-static method: -it belongs to object
+                   -object required 
+4.What is a Variable Scope
+Variable scope is the area where a varable can be used.
